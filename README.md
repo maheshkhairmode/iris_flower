@@ -1,1 +1,1 @@
-# iris_flower
+# iris_logistic_model
